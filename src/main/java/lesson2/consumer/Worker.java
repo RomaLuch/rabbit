@@ -1,4 +1,4 @@
-package workqueues.consumer;
+package lesson2.consumer;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;

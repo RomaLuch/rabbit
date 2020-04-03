@@ -1,4 +1,4 @@
-package workqueues.produser;
+package lesson2.produser;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
